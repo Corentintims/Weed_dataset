@@ -1,0 +1,26 @@
+<annotation>
+	<filename>IMG_6132.JPG</filename>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>246</ymin>
+			<xmax>275</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>203</ymin>
+			<xmax>544</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

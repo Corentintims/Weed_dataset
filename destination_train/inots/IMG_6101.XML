@@ -1,0 +1,35 @@
+<annotation>
+	<filename>IMG_6101.JPG</filename>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>302</ymin>
+			<xmax>269</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>332</ymin>
+			<xmax>265</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>195</ymin>
+			<xmax>257</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

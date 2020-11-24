@@ -1,0 +1,17 @@
+<annotation>
+	<filename>IMG_6085.JPG</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>258</ymin>
+			<xmax>437</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

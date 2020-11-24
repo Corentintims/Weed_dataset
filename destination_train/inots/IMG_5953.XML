@@ -1,0 +1,26 @@
+<annotation>
+	<filename>IMG_5953.JPG</filename>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>523</xmin>
+			<ymin>242</ymin>
+			<xmax>903</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>195</ymin>
+			<xmax>508</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<filename>IMG_5919.JPG</filename>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>146</ymin>
+			<xmax>475</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>613</xmin>
+			<ymin>322</ymin>
+			<xmax>626</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>IMG_6105.JPG</filename>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>154</ymin>
+			<xmax>178</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>148</ymin>
+			<xmax>127</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>139</ymin>
+			<xmax>386</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

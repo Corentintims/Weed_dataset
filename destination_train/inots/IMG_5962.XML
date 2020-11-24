@@ -1,0 +1,35 @@
+<annotation>
+	<filename>IMG_5962.JPG</filename>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>708</ymin>
+			<xmax>390</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>103</ymin>
+			<xmax>434</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>435</ymin>
+			<xmax>77</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

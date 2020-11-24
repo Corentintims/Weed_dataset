@@ -1,0 +1,35 @@
+<annotation>
+	<filename>IMG_5930.JPG</filename>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>288</ymin>
+			<xmax>473</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>498</ymin>
+			<xmax>821</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>5</ymin>
+			<xmax>791</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>
