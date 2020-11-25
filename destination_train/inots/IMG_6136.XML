@@ -1,12 +1,21 @@
 <annotation>
+	<folder>images</folder>
 	<filename>IMG_6136.JPG</filename>
+	<path>D:\Users\vicdu\Documents\UCL\Python\LBRTI2101B\weed\weed_dataset\images\IMG_6136.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>640</width>
 		<height>360</height>
 		<depth>3</depth>
 	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>180</xmin>
 			<ymin>47</ymin>
@@ -16,6 +25,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>222</xmin>
 			<ymin>69</ymin>
@@ -25,6 +37,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>263</xmin>
 			<ymin>63</ymin>
@@ -34,6 +49,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>288</xmin>
 			<ymin>50</ymin>
@@ -43,6 +61,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>336</xmin>
 			<ymin>98</ymin>
@@ -52,6 +73,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>422</xmin>
 			<ymin>58</ymin>
@@ -61,6 +85,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>470</xmin>
 			<ymin>59</ymin>
@@ -70,6 +97,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>526</xmin>
 			<ymin>48</ymin>
@@ -79,6 +109,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>510</xmin>
 			<ymin>104</ymin>
@@ -88,6 +121,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>599</xmin>
 			<ymin>183</ymin>
@@ -97,6 +133,9 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>598</xmin>
 			<ymin>244</ymin>
@@ -106,11 +145,62 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>154</xmin>
 			<ymin>226</ymin>
 			<xmax>164</xmax>
 			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>91</ymin>
+			<xmax>358</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>148</ymin>
+			<xmax>607</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>115</ymin>
+			<xmax>151</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>248</ymin>
+			<xmax>170</xmax>
+			<ymax>264</ymax>
 		</bndbox>
 	</object>
 </annotation>
