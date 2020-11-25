@@ -1,0 +1,17 @@
+<annotation>
+	<filename>36961.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>crop</name>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>128</ymin>
+			<xmax>391</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

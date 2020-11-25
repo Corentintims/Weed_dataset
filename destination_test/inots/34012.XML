@@ -1,0 +1,35 @@
+<annotation>
+	<filename>34012.jpg</filename>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>1218</xmin>
+			<ymin>227</ymin>
+			<xmax>1241</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>36</ymin>
+			<xmax>565</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>156</ymin>
+			<xmax>473</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

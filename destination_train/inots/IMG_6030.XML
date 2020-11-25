@@ -1,44 +1,62 @@
 <annotation>
+	<folder>raw images</folder>
 	<filename>IMG_6030.JPG</filename>
+	<path>C:\Users\Marco\Desktop\Unif\2020-2021\Q1\LBIRTI2101B\Projet Weed\Ronin_OPEN_DB\raw images\IMG_6030.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>750</width>
 		<height>1000</height>
 		<depth>3</depth>
 	</size>
+	<segmented>0</segmented>
 	<object>
-		<name>weed</name>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>657</xmin>
-			<ymin>506</ymin>
-			<xmax>680</xmax>
-			<ymax>534</ymax>
+			<xmin>227</xmin>
+			<ymin>457</ymin>
+			<xmax>342</xmax>
+			<ymax>684</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>weed</name>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>644</xmin>
-			<ymin>833</ymin>
-			<xmax>672</xmax>
-			<ymax>857</ymax>
+			<xmin>297</xmin>
+			<ymin>451</ymin>
+			<xmax>430</xmax>
+			<ymax>624</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>weed</name>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>660</xmin>
-			<ymin>870</ymin>
-			<xmax>678</xmax>
-			<ymax>896</ymax>
+			<xmin>309</xmin>
+			<ymin>69</ymin>
+			<xmax>469</xmax>
+			<ymax>300</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>weed</name>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>720</xmin>
-			<ymin>101</ymin>
-			<xmax>748</xmax>
-			<ymax>126</ymax>
+			<xmin>253</xmin>
+			<ymin>811</ymin>
+			<xmax>380</xmax>
+			<ymax>880</ymax>
 		</bndbox>
 	</object>
 </annotation>

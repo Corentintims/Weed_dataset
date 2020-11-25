@@ -1,62 +1,134 @@
 <annotation>
+	<folder>raw images</folder>
 	<filename>IMG_6031.JPG</filename>
+	<path>C:\Users\Marco\Desktop\Unif\2020-2021\Q1\LBIRTI2101B\Projet Weed\Ronin_OPEN_DB\raw images\IMG_6031.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>750</width>
 		<height>1000</height>
 		<depth>3</depth>
 	</size>
+	<segmented>0</segmented>
 	<object>
-		<name>weed</name>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>305</xmin>
-			<ymin>125</ymin>
-			<xmax>375</xmax>
-			<ymax>206</ymax>
+			<xmin>303</xmin>
+			<ymin>121</ymin>
+			<xmax>376</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>606</ymin>
+			<xmax>366</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>324</ymin>
+			<xmax>421</xmax>
+			<ymax>460</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>615</xmin>
-			<ymin>703</ymin>
-			<xmax>640</xmax>
-			<ymax>726</ymax>
+			<xmin>612</xmin>
+			<ymin>702</ymin>
+			<xmax>636</xmax>
+			<ymax>736</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>649</xmin>
-			<ymin>700</ymin>
-			<xmax>674</xmax>
-			<ymax>723</ymax>
+			<xmin>650</xmin>
+			<ymin>694</ymin>
+			<xmax>675</xmax>
+			<ymax>720</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>658</xmin>
-			<ymin>732</ymin>
-			<xmax>680</xmax>
-			<ymax>759</ymax>
+			<xmin>656</xmin>
+			<ymin>726</ymin>
+			<xmax>688</xmax>
+			<ymax>764</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>628</xmin>
-			<ymin>893</ymin>
-			<xmax>660</xmax>
-			<ymax>918</ymax>
+			<xmin>596</xmin>
+			<ymin>812</ymin>
+			<xmax>634</xmax>
+			<ymax>845</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>664</xmin>
-			<ymin>935</ymin>
-			<xmax>709</xmax>
-			<ymax>987</ymax>
+			<xmin>602</xmin>
+			<ymin>848</ymin>
+			<xmax>656</xmax>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>887</ymin>
+			<xmax>669</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>920</ymin>
+			<xmax>718</xmax>
+			<ymax>993</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,12 +1,21 @@
 <annotation>
+	<folder>images</folder>
 	<filename>IMG_5946.JPG</filename>
+	<path>C:\Users\coren\Documents\Deep_Learning\Weed_crop\weed_dataset\source\images\IMG_5946.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
 	<size>
 		<width>750</width>
 		<height>1000</height>
 		<depth>3</depth>
 	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>357</xmin>
 			<ymin>315</ymin>
@@ -16,11 +25,50 @@
 	</object>
 	<object>
 		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>624</xmin>
 			<ymin>668</ymin>
 			<xmax>727</xmax>
 			<ymax>781</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>721</ymin>
+			<xmax>735</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>736</ymin>
+			<xmax>375</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>643</ymin>
+			<xmax>274</xmax>
+			<ymax>823</ymax>
 		</bndbox>
 	</object>
 </annotation>
